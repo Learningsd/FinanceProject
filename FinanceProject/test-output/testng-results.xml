@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T11:16:26 IST" name="Suite" finished-at="2024-02-24T11:17:08 IST" duration-ms="41611">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T11:16:26 IST" name="Test" finished-at="2024-02-24T11:17:08 IST" duration-ms="41611">
+      <class name="Googledemo1.googletest1">
+        <test-method signature="googletesting()[pri:0, instance:Googledemo1.googletest1@67f639d3]" started-at="2024-02-24T11:16:27 IST" name="googletesting" finished-at="2024-02-24T11:16:57 IST" duration-ms="30694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletesting -->
+        <test-method signature="googletesting1()[pri:1, instance:Googledemo1.googletest1@67f639d3]" started-at="2024-02-24T11:16:57 IST" name="googletesting1" finished-at="2024-02-24T11:16:57 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletesting1 -->
+        <test-method signature="googletesting2()[pri:2, instance:Googledemo1.googletest1@67f639d3]" started-at="2024-02-24T11:16:57 IST" name="googletesting2" finished-at="2024-02-24T11:16:59 IST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletesting2 -->
+        <test-method signature="googletesting3()[pri:3, instance:Googledemo1.googletest1@67f639d3]" started-at="2024-02-24T11:16:59 IST" name="googletesting3" finished-at="2024-02-24T11:17:08 IST" duration-ms="8511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletesting3 -->
+      </class> <!-- Googledemo1.googletest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
